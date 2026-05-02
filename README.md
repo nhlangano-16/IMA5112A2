@@ -31,11 +31,11 @@ At the end of the quiz, the app provides a personalised score and feedback, and 
 ```
 Welcome Screen
       ↓ (Start button)
-Question Screen (loops through 10 questions)
+Question Screen (loops through 5 questions)
       ↓ (after last question)
 Score Screen
       ↓ (Review button)
-Review Screen (all answers + explanations)
+Review Screen (all answers )
 ```
 ##  Design Decisions
 
