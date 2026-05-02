@@ -45,6 +45,21 @@ Review Screen (all answers + explanations)
 - **RecyclerView** was chosen for the Review Screen because it efficiently handles scrollable lists of variable length
 - `finish()` is called after navigating from QuestionActivity to ScoreActivity to prevent the user from pressing Back and returning to a completed quiz
 
+## Screenshots
+
+### Welcome
+![Welcome](screenshots/welcome.png)
+
+### Doing the quiz 
+![In the quiz](screenshots/in_quiz.png)
+
+### Awaiting review
+![waiting for review](screenshots/done_quiz.png)
+
+### Review 
+![Review](screenshots/review.png)
+
+
 ##  How to Run
 
 1. Clone this repository
