@@ -69,3 +69,5 @@ Review Screen (all answers )
 3. Connect an emulator or physical device
 4. Press **Run ▶** to build and install the app
 
+# YouTube link
+https://youtu.be/f9_HL8582to?si=Y5_Dv9qlqE2Kg_Xp
